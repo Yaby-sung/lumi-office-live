@@ -1,0 +1,298 @@
+{
+ "updated": "2026-11-25T21:05:15+08:00",
+ "generated": "2026-11-26T06:06:31+08:00",
+ "status": {
+  "agents": {
+   "president": {
+    "state": "done",
+    "task": "九人作品彈跳視窗版完成，等待看",
+    "updated": "2026-11-20T09:24:35+08:00"
+   },
+   "researcher": {
+    "state": "done",
+    "task": "主軸6 精選限時動態初稿",
+    "updated": "2026-11-23T13:20:24+08:00"
+   },
+   "scriptwriter": {
+    "state": "done",
+    "task": "主軸7 下一步 精選限時動態初稿",
+    "updated": "2026-11-23T15:08:32+08:00"
+   },
+   "qa-checker": {
+    "state": "done",
+    "task": "第2輪 13:90 14:83 15:84 16:84",
+    "updated": "2026-11-20T12:08:55+08:00"
+   },
+   "storyboarder": {
+    "state": "done",
+    "task": "分鏡完成",
+    "updated": "2026-11-04T09:46:37+08:00"
+   },
+   "voice-actor": {
+    "state": "idle",
+    "task": "",
+    "updated": "2026-10-30T11:55:29+08:00"
+   },
+   "generator": {
+    "state": "done",
+    "task": "天下長片新圖候選（ComfyUI 4 題）",
+    "updated": "2026-11-21T13:37:42+08:00"
+   },
+   "editor": {
+    "state": "done",
+    "task": "課前影片 v1 成片",
+    "updated": "2026-11-24T10:39:15+08:00"
+   },
+   "analyst": {
+    "state": "done",
+    "task": "處理中",
+    "updated": "2026-11-20T19:28:01+08:00"
+   },
+   "customer-service": {
+    "state": "done",
+    "task": "巡留言完成",
+    "updated": "2026-11-25T21:05:15+08:00"
+   },
+   "web-deployer": {
+    "state": "done",
+    "task": "處理中",
+    "updated": "2026-11-20T15:34:11+08:00"
+   }
+  },
+  "log": [
+   {
+    "time": "2026-11-23T13:04:31+08:00",
+    "agent": "customer-service",
+    "state": "done",
+    "task": "巡留言完成"
+   },
+   {
+    "time": "2026-11-23T13:10:14+08:00",
+    "agent": "researcher",
+    "state": "working",
+    "task": "主軸6 精選限時動態 新版面重做"
+   },
+   {
+    "time": "2026-11-23T13:20:24+08:00",
+    "agent": "researcher",
+    "state": "done",
+    "task": "主軸6 精選限時動態初稿"
+   },
+   {
+    "time": "2026-11-23T15:01:55+08:00",
+    "agent": "editor",
+    "state": "working",
+    "task": "主軸5 使用流程 精選限時動態"
+   },
+   {
+    "time": "2026-11-23T15:01:56+08:00",
+    "agent": "scriptwriter",
+    "state": "working",
+    "task": "主軸7 下一步 精選限時動態"
+   },
+   {
+    "time": "2026-11-23T15:08:32+08:00",
+    "agent": "scriptwriter",
+    "state": "done",
+    "task": "主軸7 下一步 精選限時動態初稿"
+   },
+   {
+    "time": "2026-11-23T15:09:50+08:00",
+    "agent": "editor",
+    "state": "done",
+    "task": "主軸5 使用流程 精選限時動態初稿"
+   },
+   {
+    "time": "2026-11-23T21:02:03+08:00",
+    "agent": "customer-service",
+    "state": "working",
+    "task": "巡留言"
+   },
+   {
+    "time": "2026-11-23T21:02:53+08:00",
+    "agent": "customer-service",
+    "state": "working",
+    "task": "AI Persona 巡留言 11/23 21:00 草稿"
+   },
+   {
+    "time": "2026-11-23T21:05:51+08:00",
+    "agent": "customer-service",
+    "state": "done",
+    "task": "AI Persona 巡留言 11/23 21:00 草稿"
+   },
+   {
+    "time": "2026-11-23T21:06:07+08:00",
+    "agent": "customer-service",
+    "state": "done",
+    "task": "巡留言完成"
+   },
+   {
+    "time": "2026-11-24T09:02:08+08:00",
+    "agent": "customer-service",
+    "state": "working",
+    "task": "巡留言"
+   },
+   {
+    "time": "2026-11-24T09:04:35+08:00",
+    "agent": "customer-service",
+    "state": "working",
+    "task": "AI Persona W48 留言回覆草稿 1124_0900"
+   },
+   {
+    "time": "2026-11-24T09:05:41+08:00",
+    "agent": "customer-service",
+    "state": "done",
+    "task": "AI Persona W48 留言回覆草稿 1124_0900"
+   },
+   {
+    "time": "2026-11-24T09:06:09+08:00",
+    "agent": "customer-service",
+    "state": "done",
+    "task": "巡留言完成（4 則草稿待確認）"
+   },
+   {
+    "time": "2026-11-24T09:34:08+08:00",
+    "agent": "editor",
+    "state": "working",
+    "task": "課前影片：素材盤點＋逐字稿"
+   },
+   {
+    "time": "2026-11-24T10:39:15+08:00",
+    "agent": "editor",
+    "state": "done",
+    "task": "課前影片 v1 成片"
+   },
+   {
+    "time": "2026-11-24T13:02:55+08:00",
+    "agent": "customer-service",
+    "state": "working",
+    "task": "巡留言"
+   },
+   {
+    "time": "2026-11-24T13:03:19+08:00",
+    "agent": "customer-service",
+    "state": "idle",
+    "task": "暫停"
+   },
+   {
+    "time": "2026-11-24T21:02:57+08:00",
+    "agent": "customer-service",
+    "state": "working",
+    "task": "巡留言"
+   },
+   {
+    "time": "2026-11-24T21:03:19+08:00",
+    "agent": "customer-service",
+    "state": "idle",
+    "task": "暫停"
+   },
+   {
+    "time": "2026-11-25T09:48:37+08:00",
+    "agent": "customer-service",
+    "state": "working",
+    "task": "巡留言"
+   },
+   {
+    "time": "2026-11-25T13:02:00+08:00",
+    "agent": "customer-service",
+    "state": "working",
+    "task": "巡留言"
+   },
+   {
+    "time": "2026-11-25T13:03:03+08:00",
+    "agent": "customer-service",
+    "state": "working",
+    "task": "巡留言 11/25 13:00 三則回覆草稿"
+   },
+   {
+    "time": "2026-11-25T13:06:05+08:00",
+    "agent": "customer-service",
+    "state": "done",
+    "task": "巡留言 11/25 13:00 三則回覆草稿"
+   },
+   {
+    "time": "2026-11-25T13:06:30+08:00",
+    "agent": "customer-service",
+    "state": "done",
+    "task": "巡留言完成（草稿待確認）"
+   },
+   {
+    "time": "2026-11-25T21:02:02+08:00",
+    "agent": "customer-service",
+    "state": "working",
+    "task": "巡留言"
+   },
+   {
+    "time": "2026-11-25T21:04:04+08:00",
+    "agent": "customer-service",
+    "state": "working",
+    "task": "AI Persona W48 留言回覆 2100"
+   },
+   {
+    "time": "2026-11-25T21:04:51+08:00",
+    "agent": "customer-service",
+    "state": "done",
+    "task": "AI Persona W48 留言回覆 2100"
+   },
+   {
+    "time": "2026-11-25T21:05:15+08:00",
+    "agent": "customer-service",
+    "state": "done",
+    "task": "巡留言完成"
+   }
+  ]
+ },
+ "reels": [
+  {
+   "name": "11/26 AI 全貌轉型工作坊｜米娜口播推廣",
+   "mode": "口播",
+   "steps": [
+    {
+     "key": "research",
+     "label": "選題",
+     "done": true
+    },
+    {
+     "key": "script",
+     "label": "腳本",
+     "done": true
+    },
+    {
+     "key": "qa",
+     "label": "品檢",
+     "done": true
+    },
+    {
+     "key": "board",
+     "label": "分鏡",
+     "done": true
+    },
+    {
+     "key": "audio",
+     "label": "配音",
+     "done": false
+    },
+    {
+     "key": "clips",
+     "label": "生成",
+     "done": false
+    },
+    {
+     "key": "picks",
+     "label": "挑片",
+     "done": false
+    },
+    {
+     "key": "final",
+     "label": "成品",
+     "done": false
+    }
+   ],
+   "done": 4,
+   "total": 8,
+   "next": "配音",
+   "waiting": null,
+   "finished": false
+  }
+ ]
+}
