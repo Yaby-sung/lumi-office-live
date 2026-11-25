@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T06:57:31+08:00",
- "generated": "2026-11-26T06:59:04+08:00",
+ "updated": "2026-11-26T07:08:35+08:00",
+ "generated": "2026-11-26T07:09:04+08:00",
  "status": {
   "agents": {
    "president": {
@@ -44,9 +44,9 @@
     "updated": "2026-11-26T06:44:34+08:00"
    },
    "analyst": {
-    "state": "working",
-    "task": "官網 … 換三件真作品",
-    "updated": "2026-11-26T06:57:31+08:00"
+    "state": "done",
+    "task": "官網 … 三件真作品＋米娜修正（本機 commit，未推）",
+    "updated": "2026-11-26T07:07:49+08:00"
    },
    "customer-service": {
     "state": "done",
@@ -54,24 +54,12 @@
     "updated": "2026-11-25T21:05:15+08:00"
    },
    "web-deployer": {
-    "state": "working",
-    "task": "作品展間：軟食地圖、環遊世界、LUMI 辦公室",
-    "updated": "2026-11-26T06:57:16+08:00"
+    "state": "done",
+    "task": "作品展間：4 件真作品＋選購清單（預覽）",
+    "updated": "2026-11-26T07:08:35+08:00"
    }
   },
   "log": [
-   {
-    "time": "2026-11-24T10:39:15+08:00",
-    "agent": "editor",
-    "state": "done",
-    "task": "課前影片 v1 成片"
-   },
-   {
-    "time": "2026-11-24T13:02:55+08:00",
-    "agent": "customer-service",
-    "state": "working",
-    "task": "巡留言"
-   },
    {
     "time": "2026-11-24T13:03:19+08:00",
     "agent": "customer-service",
@@ -239,6 +227,18 @@
     "agent": "analyst",
     "state": "working",
     "task": "官網 … 換三件真作品"
+   },
+   {
+    "time": "2026-11-26T07:07:49+08:00",
+    "agent": "analyst",
+    "state": "done",
+    "task": "官網 … 三件真作品＋米娜修正（本機 commit，未推）"
+   },
+   {
+    "time": "2026-11-26T07:08:35+08:00",
+    "agent": "web-deployer",
+    "state": "done",
+    "task": "作品展間：4 件真作品＋選購清單（預覽）"
    }
   ]
  },
