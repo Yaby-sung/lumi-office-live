@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T06:34:48+08:00",
- "generated": "2026-11-26T06:35:04+08:00",
+ "updated": "2026-11-26T06:36:42+08:00",
+ "generated": "2026-11-26T06:37:04+08:00",
  "status": {
   "agents": {
    "president": {
@@ -44,9 +44,9 @@
     "updated": "2026-11-26T06:34:48+08:00"
    },
    "analyst": {
-    "state": "done",
-    "task": "處理中",
-    "updated": "2026-11-20T19:28:01+08:00"
+    "state": "working",
+    "task": "官網 … 米娜作品＋選購清單",
+    "updated": "2026-11-26T06:36:42+08:00"
    },
    "customer-service": {
     "state": "done",
@@ -54,24 +54,12 @@
     "updated": "2026-11-25T21:05:15+08:00"
    },
    "web-deployer": {
-    "state": "done",
-    "task": "處理中",
-    "updated": "2026-11-20T15:34:11+08:00"
+    "state": "working",
+    "task": "作品島：米娜作品卡＋選購清單（預覽，不上線）",
+    "updated": "2026-11-26T06:36:16+08:00"
    }
   },
   "log": [
-   {
-    "time": "2026-11-23T15:01:56+08:00",
-    "agent": "scriptwriter",
-    "state": "working",
-    "task": "主軸7 下一步 精選限時動態"
-   },
-   {
-    "time": "2026-11-23T15:08:32+08:00",
-    "agent": "scriptwriter",
-    "state": "done",
-    "task": "主軸7 下一步 精選限時動態初稿"
-   },
    {
     "time": "2026-11-23T15:09:50+08:00",
     "agent": "editor",
@@ -239,6 +227,18 @@
     "agent": "editor",
     "state": "working",
     "task": "剪輯：郵輪App作品集版"
+   },
+   {
+    "time": "2026-11-26T06:36:16+08:00",
+    "agent": "web-deployer",
+    "state": "working",
+    "task": "作品島：米娜作品卡＋選購清單（預覽，不上線）"
+   },
+   {
+    "time": "2026-11-26T06:36:42+08:00",
+    "agent": "analyst",
+    "state": "working",
+    "task": "官網 … 米娜作品＋選購清單"
    }
   ]
  },
