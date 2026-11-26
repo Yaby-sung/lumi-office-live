@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T08:50:05+08:00",
- "generated": "2026-11-26T08:51:04+08:00",
+ "updated": "2026-11-26T08:55:56+08:00",
+ "generated": "2026-11-26T08:57:04+08:00",
  "status": {
   "agents": {
    "president": {
@@ -44,9 +44,9 @@
     "updated": "2026-11-26T06:44:34+08:00"
    },
    "analyst": {
-    "state": "working",
-    "task": "官網 … 彈窗改版：章節卡＋直式影片",
-    "updated": "2026-11-26T08:50:05+08:00"
+    "state": "done",
+    "task": "官網 … 彈窗改版：章節卡＋直式影片（本機 commit，未推）",
+    "updated": "2026-11-26T08:55:18+08:00"
    },
    "customer-service": {
     "state": "done",
@@ -54,24 +54,12 @@
     "updated": "2026-11-25T21:05:15+08:00"
    },
    "web-deployer": {
-    "state": "working",
-    "task": "作品彈窗改影片章節卡＋辦公室影片",
-    "updated": "2026-11-26T08:49:27+08:00"
+    "state": "done",
+    "task": "作品彈窗章節卡＋直式影片版（預覽）",
+    "updated": "2026-11-26T08:55:56+08:00"
    }
   },
   "log": [
-   {
-    "time": "2026-11-25T21:02:02+08:00",
-    "agent": "customer-service",
-    "state": "working",
-    "task": "巡留言"
-   },
-   {
-    "time": "2026-11-25T21:04:04+08:00",
-    "agent": "customer-service",
-    "state": "working",
-    "task": "AI Persona W48 留言回覆 2100"
-   },
    {
     "time": "2026-11-25T21:04:51+08:00",
     "agent": "customer-service",
@@ -239,6 +227,18 @@
     "agent": "analyst",
     "state": "working",
     "task": "官網 … 彈窗改版：章節卡＋直式影片"
+   },
+   {
+    "time": "2026-11-26T08:55:18+08:00",
+    "agent": "analyst",
+    "state": "done",
+    "task": "官網 … 彈窗改版：章節卡＋直式影片（本機 commit，未推）"
+   },
+   {
+    "time": "2026-11-26T08:55:56+08:00",
+    "agent": "web-deployer",
+    "state": "done",
+    "task": "作品彈窗章節卡＋直式影片版（預覽）"
    }
   ]
  },
