@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T12:14:07+08:00",
- "generated": "2026-11-28T12:15:04+08:00",
+ "updated": "2026-11-28T13:02:12+08:00",
+ "generated": "2026-11-28T13:03:04+08:00",
  "status": {
   "agents": {
    "president": {
@@ -49,9 +49,9 @@
     "updated": "2026-11-26T08:55:18+08:00"
    },
    "customer-service": {
-    "state": "idle",
-    "task": "暫停",
-    "updated": "2026-11-28T10:32:58+08:00"
+    "state": "working",
+    "task": "巡留言",
+    "updated": "2026-11-28T13:02:12+08:00"
    },
    "web-deployer": {
     "state": "done",
@@ -60,12 +60,6 @@
    }
   },
   "log": [
-   {
-    "time": "2026-11-26T06:57:31+08:00",
-    "agent": "analyst",
-    "state": "working",
-    "task": "官網 … 換三件真作品"
-   },
    {
     "time": "2026-11-26T07:07:49+08:00",
     "agent": "analyst",
@@ -239,6 +233,12 @@
     "agent": "scriptwriter",
     "state": "done",
     "task": "IG 不露臉短影音 20 支題目與念稿"
+   },
+   {
+    "time": "2026-11-28T13:02:12+08:00",
+    "agent": "customer-service",
+    "state": "working",
+    "task": "巡留言"
    }
   ]
  },
