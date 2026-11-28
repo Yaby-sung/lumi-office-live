@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T10:55:49+08:00",
- "generated": "2026-11-28T10:57:04+08:00",
+ "updated": "2026-11-28T11:04:44+08:00",
+ "generated": "2026-11-28T11:05:04+08:00",
  "status": {
   "agents": {
    "president": {
@@ -14,9 +14,9 @@
     "updated": "2026-11-23T13:20:24+08:00"
    },
    "scriptwriter": {
-    "state": "done",
-    "task": "主軸7 下一步 精選限時動態初稿",
-    "updated": "2026-11-23T15:08:32+08:00"
+    "state": "working",
+    "task": "IG 不露臉短影音 20 支題目與念稿",
+    "updated": "2026-11-28T11:03:40+08:00"
    },
    "qa-checker": {
     "state": "done",
@@ -60,12 +60,6 @@
    }
   },
   "log": [
-   {
-    "time": "2026-11-26T06:54:36+08:00",
-    "agent": "analyst",
-    "state": "done",
-    "task": "官網 … 米娜精選圖焦點調整（本機 commit，未推）"
-   },
    {
     "time": "2026-11-26T06:57:16+08:00",
     "agent": "web-deployer",
@@ -239,6 +233,12 @@
     "agent": "customer-service",
     "state": "idle",
     "task": "暫停"
+   },
+   {
+    "time": "2026-11-28T11:03:40+08:00",
+    "agent": "scriptwriter",
+    "state": "working",
+    "task": "IG 不露臉短影音 20 支題目與念稿"
    }
   ]
  },
