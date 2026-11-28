@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T21:02:12+08:00",
- "generated": "2026-11-28T21:03:04+08:00",
+ "updated": "2026-11-28T21:04:32+08:00",
+ "generated": "2026-11-28T21:05:04+08:00",
  "status": {
   "agents": {
    "president": {
@@ -49,9 +49,9 @@
     "updated": "2026-11-26T08:55:18+08:00"
    },
    "customer-service": {
-    "state": "working",
-    "task": "巡留言",
-    "updated": "2026-11-28T21:02:12+08:00"
+    "state": "done",
+    "task": "巡留言完成",
+    "updated": "2026-11-28T21:04:32+08:00"
    },
    "web-deployer": {
     "state": "done",
@@ -60,24 +60,6 @@
    }
   },
   "log": [
-   {
-    "time": "2026-11-26T07:51:21+08:00",
-    "agent": "analyst",
-    "state": "working",
-    "task": "官網 … 米娜精選圖最終順序（戲劇封面）"
-   },
-   {
-    "time": "2026-11-26T07:54:32+08:00",
-    "agent": "analyst",
-    "state": "done",
-    "task": "官網 … 米娜精選圖定版（本機 commit，未推）"
-   },
-   {
-    "time": "2026-11-26T08:31:44+08:00",
-    "agent": "analyst",
-    "state": "working",
-    "task": "官網 … 米娜戲劇格換滿版劇照"
-   },
    {
     "time": "2026-11-26T08:33:55+08:00",
     "agent": "analyst",
@@ -239,6 +221,24 @@
     "agent": "customer-service",
     "state": "working",
     "task": "巡留言"
+   },
+   {
+    "time": "2026-11-28T21:03:08+08:00",
+    "agent": "customer-service",
+    "state": "working",
+    "task": "巡留言草稿 Threads 2則"
+   },
+   {
+    "time": "2026-11-28T21:04:11+08:00",
+    "agent": "customer-service",
+    "state": "done",
+    "task": "巡留言草稿 Threads 2則"
+   },
+   {
+    "time": "2026-11-28T21:04:32+08:00",
+    "agent": "customer-service",
+    "state": "done",
+    "task": "巡留言完成"
    }
   ]
  },
