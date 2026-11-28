@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T11:04:44+08:00",
- "generated": "2026-11-28T11:05:04+08:00",
+ "updated": "2026-11-28T11:08:36+08:00",
+ "generated": "2026-11-28T11:09:04+08:00",
  "status": {
   "agents": {
    "president": {
@@ -14,9 +14,9 @@
     "updated": "2026-11-23T13:20:24+08:00"
    },
    "scriptwriter": {
-    "state": "working",
+    "state": "done",
     "task": "IG 不露臉短影音 20 支題目與念稿",
-    "updated": "2026-11-28T11:03:40+08:00"
+    "updated": "2026-11-28T11:07:16+08:00"
    },
    "qa-checker": {
     "state": "done",
@@ -60,12 +60,6 @@
    }
   },
   "log": [
-   {
-    "time": "2026-11-26T06:57:16+08:00",
-    "agent": "web-deployer",
-    "state": "working",
-    "task": "作品展間：軟食地圖、環遊世界、LUMI 辦公室"
-   },
    {
     "time": "2026-11-26T06:57:31+08:00",
     "agent": "analyst",
@@ -238,6 +232,12 @@
     "time": "2026-11-28T11:03:40+08:00",
     "agent": "scriptwriter",
     "state": "working",
+    "task": "IG 不露臉短影音 20 支題目與念稿"
+   },
+   {
+    "time": "2026-11-28T11:07:16+08:00",
+    "agent": "scriptwriter",
+    "state": "done",
     "task": "IG 不露臉短影音 20 支題目與念稿"
    }
   ]
